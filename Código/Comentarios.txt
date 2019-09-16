@@ -1,0 +1,5 @@
+****NO BORRAR****
+->  Vamos a crear una sola funcion para
+boton arriba y abajo.
+->
+
