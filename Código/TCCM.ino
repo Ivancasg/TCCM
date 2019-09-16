@@ -91,6 +91,6 @@ void setup() {
 
 void loop() {
 
-  Menu(); //La pinche reata
+  Menu(); 
 
 }
